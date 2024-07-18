@@ -3,7 +3,7 @@
 
 # Revenue INSIGHTS(Powerbi | MxExcel)
 
-### Dashboard Link :https://app.powerbi.com/groups/me/reports/8aee4255-3c9f-49bd-a8f8-c60e0b519e28/ReportSectionce2063a216d8e001051e?experience=power-bi
+### Dashboard Link :https://app.powerbi.com/view?r=eyJrIjoiNjVlMmE5NTktNWQxMi00MDNmLTg2MDUtYzM1MzY5NDI5YTc4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ## About Project
 
